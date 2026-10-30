@@ -28,6 +28,7 @@ I enjoy developing machine learning solutions, experimenting with neural network
 - scikit-learn
 - NumPy
 - Pandas
+- OpenCV
 
 **Tools & Environment**
 - Git & GitHub
