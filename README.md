@@ -43,6 +43,7 @@ I enjoy developing machine learning solutions, experimenting with neural network
 | :--- | :--- | :--- | :--- |
 | **ADHD Classification Using Convolutional Neural Networks Based on EEG Spectrograms** | EEG-based ADHD classification using spectrograms and five CNN architectures, comparing EEG channel configurations and recording conditions. | Python, TensorFlow/Keras, NumPy | [View Project](https://github.com/3nrlque/EEG-ADHD-CNN-Classification) |
 | **Water Potability Classification Using Neural Networks** | Machine learning and ANN-based water quality assessment, evaluating MLP and Random Forest classifiers on physicochemical water potability metrics. | Python, scikit-learn, Pandas | [View Project](https://github.com/3nrlque/Water-potability-classification) |
+| **Target tracker using computer vision** | Computer vision project for real-time target detection and automated aiming using OpenCV, HSV color segmentation, and mouse input simulation. | Python, OpenCV, BetterCam | [View Project](https://github.com/3nrlque/cv-target-tracker) |
 
 ---
 
