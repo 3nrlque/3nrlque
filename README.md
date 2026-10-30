@@ -1,6 +1,6 @@
 # Hi, I'm Eryk 👋
 
-I'm a Master's graduate in Automation control and Robotics from Wrocław University of Science and Technology, with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning.
+I'm a Master's graduate in Control Engineering and Robotics from Wrocław University of Science and Technology, with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning.
 
 I enjoy developing machine learning solutions, experimenting with neural network architectures, and evaluating their performance on classification problems. My current focus is on expanding my knowledge of software development and AI deployment.
 
